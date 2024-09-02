@@ -305,6 +305,7 @@ body {
 .rating{
     font-size: 1.2rem;
     margin-bottom: 0.8rem;
+    z-index: -100;
    
 }
 
